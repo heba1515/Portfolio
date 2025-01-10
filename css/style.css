@@ -19,29 +19,18 @@ body {
 
 #home .fp-slide,
 #home .fp-tableCell,
-
 #service,
 #service .fp-slide,
 #service .fp-tableCell,
-
 #about,
 #about .fp-slide,
 #about .fp-tableCell,
-
 #contact,
 #contact .fp-slide,
 #contact .fp-tableCell,
-
 #portfolio,
 #portfolio .fp-slide,
 #portfolio .fp-tableCell,
-
-footer,
-footer .fp-slide,
-footer .fp-tableCell {
-    height: auto !important;
-}
-
 #service,
 #about,
 #portfolio,
@@ -56,7 +45,7 @@ footer .fp-tableCell {
     text-align: center;
     color: var(--secondary-text-color);
     height: 694px !important;
-    background: url('https://templatemo.com/templates/templatemo_464_ultra_profile/images/home-bg.jpg') no-repeat;
+    background: url('../images/home-bg.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
