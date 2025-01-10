@@ -19,18 +19,25 @@ body {
 
 #home .fp-slide,
 #home .fp-tableCell,
+
 #service,
 #service .fp-slide,
 #service .fp-tableCell,
+
 #about,
 #about .fp-slide,
 #about .fp-tableCell,
+
 #contact,
 #contact .fp-slide,
 #contact .fp-tableCell,
+
 #portfolio,
 #portfolio .fp-slide,
-#portfolio .fp-tableCell,
+#portfolio .fp-tableCell{
+    height: auto !important;
+}
+
 #service,
 #about,
 #portfolio,
